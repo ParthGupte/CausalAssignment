@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.13)  29 APR 2024 11:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.13)  29 APR 2024 12:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -217,164 +217,164 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <../age_cts_hist_plot.png, id=44, 462.528pt x 346.896pt>
 File: ../age_cts_hist_plot.png Graphic file (type png)
 <use ../age_cts_hist_plot.png>
-Package pdftex.def Info: ../age_cts_hist_plot.png  used on input line 33.
+Package pdftex.def Info: ../age_cts_hist_plot.png  used on input line 34.
 (pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 33--34
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 34--35
  [][] 
  []
 
 <../age2_cts_hist_plot.png, id=46, 462.528pt x 346.896pt>
 File: ../age2_cts_hist_plot.png Graphic file (type png)
 <use ../age2_cts_hist_plot.png>
-Package pdftex.def Info: ../age2_cts_hist_plot.png  used on input line 38.
+Package pdftex.def Info: ../age2_cts_hist_plot.png  used on input line 39.
 (pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 38--39
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 39--40
  [][] 
  []
 
 <../ed_cts_hist_plot.png, id=47, 462.528pt x 346.896pt>
 File: ../ed_cts_hist_plot.png Graphic file (type png)
 <use ../ed_cts_hist_plot.png>
-Package pdftex.def Info: ../ed_cts_hist_plot.png  used on input line 44.
+Package pdftex.def Info: ../ed_cts_hist_plot.png  used on input line 45.
 (pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 44--45
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
 <../re74_cts_hist_plot.png, id=48, 462.528pt x 346.896pt>
 File: ../re74_cts_hist_plot.png Graphic file (type png)
 <use ../re74_cts_hist_plot.png>
-Package pdftex.def Info: ../re74_cts_hist_plot.png  used on input line 49.
+Package pdftex.def Info: ../re74_cts_hist_plot.png  used on input line 50.
 (pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 49--50
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 50--51
  [][] 
  []
 
 <../re75_cts_hist_plot.png, id=49, 462.528pt x 346.896pt>
 File: ../re75_cts_hist_plot.png Graphic file (type png)
 <use ../re75_cts_hist_plot.png>
-Package pdftex.def Info: ../re75_cts_hist_plot.png  used on input line 54.
+Package pdftex.def Info: ../re75_cts_hist_plot.png  used on input line 55.
 (pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 54--55
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 55--56
  [][] 
  []
 
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <../age_cts_hist_plot.png>] [3 <../age2_cts_hist_plot.png>] [4 <../ed_cts_hist_plot.png>] [5 <../re74_cts_hist_plot.png>] [6 <../re75_cts_hist_plot.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 58--60
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--65
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
 
  []
 
 
-Overfull \hbox (106.49606pt too wide) in paragraph at lines 80--80
+Overfull \hbox (106.49606pt too wide) in paragraph at lines 81--81
 []\OT1/cmtt/m/n/10 Column age has T-statistic value = 1.116614928783765 with p-value = 0.2647642688056856[] 
  []
 
 
-Overfull \hbox (80.24629pt too wide) in paragraph at lines 80--80
+Overfull \hbox (80.24629pt too wide) in paragraph at lines 81--81
 []\OT1/cmtt/m/n/10 Hence we cannot say that the distributions are diffrent with significance (<0.05)[] 
  []
 
 
-Overfull \hbox (132.74583pt too wide) in paragraph at lines 80--80
+Overfull \hbox (132.74583pt too wide) in paragraph at lines 81--81
 []\OT1/cmtt/m/n/10 Column re74 has T-statistic value = -0.022175136958298255 with p-value = 0.9823182350488567[] 
  []
 
 
-Overfull \hbox (80.24629pt too wide) in paragraph at lines 80--80
+Overfull \hbox (80.24629pt too wide) in paragraph at lines 81--81
 []\OT1/cmtt/m/n/10 Hence we cannot say that the distributions are diffrent with significance (<0.05)[] 
  []
 
 
-Overfull \hbox (116.99597pt too wide) in paragraph at lines 80--80
+Overfull \hbox (116.99597pt too wide) in paragraph at lines 81--81
 []\OT1/cmtt/m/n/10 Column re75 has T-statistic value = 0.8746214935780514 with p-value = 0.3822538041052975[] 
  []
 
 
-Overfull \hbox (80.24629pt too wide) in paragraph at lines 80--80
+Overfull \hbox (80.24629pt too wide) in paragraph at lines 81--81
 []\OT1/cmtt/m/n/10 Hence we cannot say that the distributions are diffrent with significance (<0.05)[] 
  []
 
 
-Overfull \hbox (116.99597pt too wide) in paragraph at lines 80--80
+Overfull \hbox (116.99597pt too wide) in paragraph at lines 81--81
 []\OT1/cmtt/m/n/10 Column age2 has T-statistic value = 0.9694696864328992 with p-value = 0.3328398944498051[] 
  []
 
 
-Overfull \hbox (80.24629pt too wide) in paragraph at lines 80--80
+Overfull \hbox (80.24629pt too wide) in paragraph at lines 81--81
 []\OT1/cmtt/m/n/10 Hence we cannot say that the distributions are diffrent with significance (<0.05)[] 
  []
 
 
-Overfull \hbox (111.74602pt too wide) in paragraph at lines 80--80
+Overfull \hbox (111.74602pt too wide) in paragraph at lines 81--81
 []\OT1/cmtt/m/n/10 Column ed has T-statistic value = 1.4958255190965968 with p-value = 0.13541116716943868[] 
  []
 
 
-Overfull \hbox (80.24629pt too wide) in paragraph at lines 80--80
+Overfull \hbox (80.24629pt too wide) in paragraph at lines 81--81
 []\OT1/cmtt/m/n/10 Hence we cannot say that the distributions are diffrent with significance (<0.05)[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--86
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
 
  []
 
 
-Overfull \hbox (95.99615pt too wide) in paragraph at lines 98--98
+Overfull \hbox (95.99615pt too wide) in paragraph at lines 99--99
 []\OT1/cmtt/m/n/10 Column black as chi-sq value = 0.10662384969179997 with p-value = 0.7440210684680046[] 
  []
 
 
-Overfull \hbox (80.24629pt too wide) in paragraph at lines 98--98
+Overfull \hbox (80.24629pt too wide) in paragraph at lines 99--99
 []\OT1/cmtt/m/n/10 Hence we cannot say that the distributions are diffrent with significance (<0.05)[] 
  []
 
 
-Overfull \hbox (90.7462pt too wide) in paragraph at lines 98--98
+Overfull \hbox (90.7462pt too wide) in paragraph at lines 99--99
 []\OT1/cmtt/m/n/10 Column hisp as chi-sq value = 2.5705628867929904 with p-value = 0.10886898726859187[] 
  []
 
 
-Overfull \hbox (80.24629pt too wide) in paragraph at lines 98--98
+Overfull \hbox (80.24629pt too wide) in paragraph at lines 99--99
 []\OT1/cmtt/m/n/10 Hence we cannot say that the distributions are diffrent with significance (<0.05)[] 
  []
 
 
-Overfull \hbox (106.49606pt too wide) in paragraph at lines 98--98
+Overfull \hbox (106.49606pt too wide) in paragraph at lines 99--99
 []\OT1/cmtt/m/n/10 Column married as chi-sq value = 0.7277914114738451 with p-value = 0.39360001605637096[] 
  []
 
 
-Overfull \hbox (80.24629pt too wide) in paragraph at lines 98--98
+Overfull \hbox (80.24629pt too wide) in paragraph at lines 99--99
 []\OT1/cmtt/m/n/10 Hence we cannot say that the distributions are diffrent with significance (<0.05)[] 
  []
 
 
-Overfull \hbox (95.99615pt too wide) in paragraph at lines 98--98
+Overfull \hbox (95.99615pt too wide) in paragraph at lines 99--99
 []\OT1/cmtt/m/n/10 Column nodeg as chi-sq value = 9.41953941767863 with p-value = 0.0021468543756801464[] 
  []
 
 [7
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 102--106
+Underfull \hbox (badness 10000) in paragraph at lines 103--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--142
+Underfull \hbox (badness 10000) in paragraph at lines 138--143
 
  []
 
@@ -384,48 +384,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--142
 <../treatmentvscontrol_common_base.png, id=99, 462.528pt x 346.896pt>
 File: ../treatmentvscontrol_common_base.png Graphic file (type png)
 <use ../treatmentvscontrol_common_base.png>
-Package pdftex.def Info: ../treatmentvscontrol_common_base.png  used on input line 163.
+Package pdftex.def Info: ../treatmentvscontrol_common_base.png  used on input line 164.
 (pdftex.def)             Requested size: 426.79134pt x 320.11154pt.
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 163--164
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 164--165
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--168
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
 
  []
 
 [10
 
  <../treatmentvscontrol_common_base.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 169--173
+Underfull \hbox (badness 10000) in paragraph at lines 170--174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--184
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 182--184
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 184.
+(Font)              <7> on input line 185.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 184.
+(Font)              <5> on input line 185.
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
  []
 
 [11
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
 
  []
 
@@ -435,7 +435,7 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
  ***********
 Package rerunfilecheck Info: File `Causal_assignment_ParthGupte.out' has not changed.
-(rerunfilecheck)             Checksum: 4DCE809C5F583C2BA773D70AE4FBBB84;1603.
+(rerunfilecheck)             Checksum: FF2E45FCFDA336C46BEB8FCEC6178601;1639.
  ) 
 Here is how much of TeX's memory you used:
  8502 strings out of 475189
@@ -446,7 +446,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,7n,79p,368b,577s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Causal_assignment_ParthGupte.pdf (12 pages, 213341 bytes).
+Output written on Causal_assignment_ParthGupte.pdf (12 pages, 213705 bytes).
 PDF statistics:
  176 PDF objects out of 1000 (max. 8388607)
  128 compressed objects within 2 object streams
